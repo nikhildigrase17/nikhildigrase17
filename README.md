@@ -1,5 +1,4 @@
-👋 Hi I'm Nikhil Digrase, working as a Technical Analyst - Data & Analytics @Coforge at Bengaluru, Karnataka, INDIA.
-Overall having 7+ years of experience in helping clients with their business requirements delivery through data acquisition, analysis, and driving insights through machine learning model developments, KPI reporting and driving business to a higher level.
+👋 Hi I'm Nikhil Digrase, I am fresher in data field looking for an oppurtunities to work and grow in data analytics field.
 
 Having good knowledge of Python, SQL, SNOWFLAKE, ML, Tableau & POWERBI.
 
